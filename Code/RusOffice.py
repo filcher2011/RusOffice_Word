@@ -1,7 +1,6 @@
 import os
 import time
 
-from Coltext import Color
 import tkinter.filedialog, tkinter as tk, time
 
 from tkinter import *
