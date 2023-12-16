@@ -22,10 +22,6 @@ def change_fonts(fontsg):
     textbox['font'] = fonts[fontsg]['font']
     fontText = textbox['font']
 
-'''def change_sizeText(size):
-    global sizeText
-    sizeText = size'''
-
 def NewWindow():
     os.system("start RusOffice.exe")
 
@@ -97,9 +93,7 @@ app.iconbitmap('icon.ico')
 app.geometry('1366x768')
 app.state('zoomed')
 app.title('РусОфис 1.0')
-#panelFrame = Frame(app, height=25, bg='steelblue')
 textFrame = Frame(app, height=340, width=600)
-#panelFrame.pack(side='top', fill='x') 
 textFrame.pack(side='bottom', fill='both', expand=1) 
 textbox = Text(textFrame, font='Colibri 11', wrap=WORD)
 scrollbar = Scrollbar(textFrame)
