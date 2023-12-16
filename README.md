@@ -20,6 +20,6 @@ Cherni Company -- company developing software for Windows, Linux and Mac.
 ---
 
 # 🔃 Download
-RusOffice Word is currently being developed, but you can download the BETA version of this program. \ 
-[![DL Badge](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/uc?export=download&id=1FFavJvQlMzjxDwwsIzHSvvxjefsMbhNc)
+RusOffice Word is currently being developed, but you can download the BETA version of this program. \
+[![DL Badge](https://img.shields.io/badge/Download-green?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/uc?export=download&id=1FFavJvQlMzjxDwwsIzHSvvxjefsMbhNc) \
 The file is virus-free! (checked by VirusTotal)
